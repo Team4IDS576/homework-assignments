@@ -59,3 +59,6 @@ Backup[ ]of[ ]*.numbers/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ignore CIFAR 10 Data
+Misc_files/data/
