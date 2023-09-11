@@ -62,3 +62,6 @@ Backup[ ]of[ ]*.numbers/
 
 # Ignore CIFAR 10 Data
 Misc_files/data/
+
+# Ignore working files
+Working/
