@@ -62,6 +62,7 @@ Backup[ ]of[ ]*.numbers/
 
 # Ignore CIFAR 10 Data
 Misc_files/data/
+Misc_files/movielens_data/
 
 # Ignore working files
 Working/
