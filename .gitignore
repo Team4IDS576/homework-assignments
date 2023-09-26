@@ -20,23 +20,23 @@ Thumbs.db
 *.xcuserstate
 project.xcworkspace/
 xcuserdata/
- 
- 
+
+
 # IDE
 *.idea
 *.iml
- 
+
 # Generated files
 /web-app/WEB-INF
 build/
 *.[oa]
 *.pyc
- 
+
 # Other source repository archive directories (protects when importing)
 .hg
 .svn
 CVS
- 
+
 # automatic backup files
 *~.nib
 *.swp
@@ -63,6 +63,9 @@ Backup[ ]of[ ]*.numbers/
 # Ignore CIFAR 10 Data
 Misc_files/data/
 Misc_files/movielens_data/
+
+# Ignore torchtext IMDB dataset
+Misc_files/IMDB_dataset
 
 # Ignore working files
 Working/
